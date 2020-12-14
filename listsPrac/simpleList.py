@@ -32,3 +32,6 @@ print(numbers[0]*4)
 print(numbers*4)
 
 print(numbers[0:3])
+
+print(my_list[-1])
+
